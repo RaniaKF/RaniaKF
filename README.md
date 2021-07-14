@@ -4,7 +4,9 @@
 
 <img src="http://www.reactiongifs.com/r/fgwv.gif">  
 
-<!-- Actual text --> You can also find me on [![Twitter][1.2]][1]
+<!-- Actual text --> 
+
+You can also find me on [![Twitter][1.2]][1]
 
 <!-- Icons -->
 
