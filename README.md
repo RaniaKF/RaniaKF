@@ -2,11 +2,12 @@
 
 ### Hi there 👋
 
-<img src="http://www.reactiongifs.com/r/fgwv.gif">
+<img src="http://www.reactiongifs.com/r/fgwv.gif"> Find me around the web 🌎:
+
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+You can also find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
