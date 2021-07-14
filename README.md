@@ -10,4 +10,6 @@
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 
+<!-- Links -->
+
 [1]: http://www.twitter.com/RaniaKF
